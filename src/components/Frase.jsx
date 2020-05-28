@@ -35,7 +35,6 @@ const ContenedorFrase =  styled.div`
             &::after {
                 font-size: 4rem;
             }
-
         }
     }
 
